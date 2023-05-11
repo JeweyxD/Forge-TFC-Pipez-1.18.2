@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "YYY",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "tfc:metal/ingot/copper"
+    },
+    "Y": {
+      "item": "tfc:metal/rod/copper"
+    }
+  },
+  "result": {
+    "item": "pipez:energy_pipe",
+    "count": 16
+  }
+}

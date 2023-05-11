@@ -1,0 +1,5 @@
+{
+  "extend": "tfc:field_guide",
+  "name": "TFC-Pipez",
+  "landing_text": "Compatibility for the Pipez mod."
+}
