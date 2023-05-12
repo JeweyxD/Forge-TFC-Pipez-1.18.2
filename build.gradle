@@ -22,7 +22,7 @@ apply plugin: 'org.parchmentmc.librarian.forgegradle'
 apply plugin: 'org.spongepowered.mixin'
 
 
-version = '1.0-1.18.2'
+version = '1.1-1.18.2'
 group = 'com.jewey.tfc_pipez' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'tfc_pipez'
 
